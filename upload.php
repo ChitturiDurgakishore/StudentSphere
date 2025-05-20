@@ -11,10 +11,10 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 
-$servername = "sql211.infinityfree.com";
-$username = "if0_38961025";
-$password = "SH9gIqKjTa";
-$database = "if0_38961025_File_links";
+$servername = "//";
+$username = "//";
+$password = "//";
+$database = "//";
 
 $uploadMessage = "";
 
