@@ -1,9 +1,9 @@
 <?php
 // Database connection details
-$servername = "sql211.infinityfree.com";
-$username = "if0_38961025";
-$password = "SH9gIqKjTa";
-$database = "if0_38961025_File_links";
+$servername = "//";
+$username = "//";
+$password = "//";
+$database = "//";
 
 $conn = new mysqli($servername, $username, $password, $database);
 if ($conn->connect_error) {
