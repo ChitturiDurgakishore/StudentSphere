@@ -1,10 +1,10 @@
 <?php
 session_start();
 
-$servername = "sql211.infinityfree.com";
-$dbUsername = "if0_38961025";
-$dbPassword = "SH9gIqKjTa";
-$dbName = "if0_38961025_File_links";
+$servername = "";
+$dbUsername="";
+$dbPassword = "";
+$dbName = "";
 
 $error = "";
 
